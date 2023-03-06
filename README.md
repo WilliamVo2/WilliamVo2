@@ -10,7 +10,7 @@
 ![node.js](https://img.shields.io/badge/-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![handelbars](https://img.shields.io/badge/-000000?style=for-the-badge&logo=Handlebars.js&logoColor=white)
 ![trello](https://img.shields.io/badge/-0052cc?style=for-the-badge&logo=Trello&logoColor=white)
-![javascript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![javascript](https://img.shields.io/badge/-339933?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-e34f26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![jest](https://img.shields.io/badge/-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![react](https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=React&logoColor=white)
@@ -19,7 +19,8 @@
 ![cypress](https://img.shields.io/badge/-339933?style=for-the-badge&logo=Cypress&logoColor=white)
 ![amazon AWS](https://img.shields.io/badge/-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 ![amazon S3](https://img.shields.io/badge/-569a31?style=for-the-badge&logo=AmazonS3&logoColor=white)
-![.env](https://img.shields.io/badge/-ECD53F?style=for-the-badge&logo=.ENV&logoColor=white)
+![.ENV](https://img.shields.io/badge/-000000?style=for-the-badge&logo=.ENV&logoColor=white)
+
 
 <!---
 WilliamVo2/WilliamVo2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
