@@ -1,12 +1,12 @@
-# 👋 Hi, I’m William Vo
+# 👋 Hi, My name is William Vo
 ## Full Stack Developer
-- 🌱 I’m currently apprentice Full-Stack Developer at Launch Academy.
-- 👀 I’m looking for a Full Stack Developer!
+- 🌱 I’m currently building my app and getting hired.
+- 👀 I’m looking for the Full Stack Developer and Software Engineer.
 - 📫 How to reach me at billvo264@gmail.com
 ![linkedIn](https://img.shields.io/badge/LinkedIn-ffefd5?style=for-the-badge&logo=LinkedIn&logoColor=blue)
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
-## I code with:
+## Skills
 ![node.js](https://img.shields.io/badge/-fff?style=for-the-badge&logo=Node.js&logoColor=green)
 ![handlebars](https://img.shields.io/badge/-fff?style=for-the-badge&logo=Handlebars.js&logoColor=000000)
 ![trello](https://img.shields.io/badge/-fff?style=for-the-badge&logo=Trello&logoColor=blue)
