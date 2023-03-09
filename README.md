@@ -1,25 +1,34 @@
 # 👋 Hi, I’m William Vo
-- 👀 I’m an aspiring software developer.
-- 🌱 I’m currently learning code development of web app through Node.js, and Javascript language.
-- 💞️ I’m looking to getting hired!
-- 📫 How to reach me ...
+## Full Stack Developer
+- 🌱 I’m currently apprentice Full-Stack Developer at Launch Academy.
+- 👀 I’m looking for a Full Stack Developer!
+- 📫 How to reach me at billvo264@gmail.com
 ![linkedIn](https://img.shields.io/badge/LinkedIn-ffefd5?style=for-the-badge&logo=LinkedIn&logoColor=blue)
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
-## I code with
-![node.js](https://img.shields.io/badge/-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![handelbars](https://img.shields.io/badge/-000000?style=for-the-badge&logo=Handlebars.js&logoColor=white)
-![trello](https://img.shields.io/badge/-0052cc?style=for-the-badge&logo=Trello&logoColor=white)
-![javascript](https://img.shields.io/badge/-339933?style=for-the-badge&logo=JavaScript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-e34f26?style=for-the-badge&logo=HTML5&logoColor=white)
-![jest](https://img.shields.io/badge/-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![react](https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-![react router](https://img.shields.io/badge/-CA4245?style=for-the-badge&logo=ReactRouter&logoColor=white)
-![racket](https://img.shields.io/badge/-9F1D20?style=for-the-badge&logo=Racket&logoColor=white)
-![cypress](https://img.shields.io/badge/-339933?style=for-the-badge&logo=Cypress&logoColor=white)
-![amazon AWS](https://img.shields.io/badge/-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)
-![amazon S3](https://img.shields.io/badge/-569a31?style=for-the-badge&logo=AmazonS3&logoColor=white)
-![.ENV](https://img.shields.io/badge/-000000?style=for-the-badge&logo=.ENV&logoColor=white)
+## I code with:
+![node.js](https://img.shields.io/badge/-fff?style=for-the-badge&logo=Node.js&logoColor=green)
+![handlebars](https://img.shields.io/badge/-fff?style=for-the-badge&logo=Handlebars.js&logoColor=000000)
+![trello](https://img.shields.io/badge/-fff?style=for-the-badge&logo=Trello&logoColor=blue)
+![diagrams.net](https://img.shields.io/badge/-fff?style=for-the-badge&logo=diagrams.net&logoColor=F08705)
+![Visual Studio Code](https://img.shields.io/badge/-fff?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)
+![Git](https://img.shields.io/badge/-fff?style=for-the-badge&logo=Git&logoColor=F05032)
+![javascript](https://img.shields.io/badge/-fff?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/-fff?style=for-the-badge&logo=HTML5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-fff?style=for-the-badge&logo=CSS3&logoColor=E34F26)
+![Babel](https://img.shields.io/badge/-fff?style=for-the-badge&logo=Babel&logoColor=E34F26)
+![EXPRESS](https://img.shields.io/badge/-fff?style=for-the-badge&logo=Express&logoColor=E34F26)
+![Heroku](https://img.shields.io/badge/-fff?style=for-the-badge&logo=Heroku&logoColor=430098)
+![jest](https://img.shields.io/badge/-fff?style=for-the-badge&logo=jest&logoColor=C21325)
+![react](https://img.shields.io/badge/-fff?style=for-the-badge&logo=React&logoColor=61DAFB)
+![Sass](https://img.shields.io/badge/-fff?style=for-the-badge&logo=Sass&logoColor=CC6699)
+![PostgreSQL](https://img.shields.io/badge/-fff?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)
+![racket](https://img.shields.io/badge/-fff?style=for-the-badge&logo=Racket&logoColor=9F1D20)
+![cypress](https://img.shields.io/badge/-fff?style=for-the-badge&logo=Cypress&logoColor=339933)
+![amazon AWS](https://img.shields.io/badge/-fff?style=for-the-badge&logo=AmazonAWS&logoColor=F09820)
+![amazon S3](https://img.shields.io/badge/-fff?style=for-the-badge&logo=AmazonS3&logoColor=569a31)
+![C++](https://img.shields.io/badge/-fff?style=for-the-badge&logo=C&logoColor=000000)
+![SFML](https://img.shields.io/badge/-fff?style=for-the-badge&logo=SFML&logoColor=8CC445)
 
 
 <!---
