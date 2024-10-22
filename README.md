@@ -2,7 +2,7 @@
 ## Full Stack Developer
 - 🌱 I’m currently building my app and getting hired.
 - 👀 I’m looking for the Full Stack Developer and Software Engineer.
-- 📡 ArmyIgnitED trainning: Professional Software Developer, and Project Manager 2.3.
+- 📡 My trainning courses with ArmyIgnitED are Professional Software Developer, and Project Manager 2.3.
 - 📫 How to reach me at billvo264@gmail.com
 ![linkedIn](https://img.shields.io/badge/LinkedIn-ffefd5?style=for-the-badge&logo=LinkedIn&logoColor=blue)
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
